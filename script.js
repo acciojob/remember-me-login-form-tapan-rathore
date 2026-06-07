@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const form = document.getElementById("loginForm");
+const form = document.getElementById("loginform");
 const usernameInput = document.getElementById("username");
 const passwordInput = document.getElementById("password");
 const checkbox = document.getElementById("checkbox");
